@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Ordering System
+# 🍽️ Restaurant Ordering System v2
 
 A real-time QR-code based ordering system for restaurants.
 
